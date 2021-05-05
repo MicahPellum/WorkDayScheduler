@@ -9,8 +9,9 @@ I built this project using HTML, CSS, Javascript and local storage.
 
 # Links 
 
-Deployed- 
-GitHub Repo- 
+Deployed-   https://micahpellum.github.io/WorkDayScheduler/
+
+GitHub Repo-  https://github.com/MicahPellum 
 
 # Images
 ![WorkDayScheduler](https://user-images.githubusercontent.com/72360277/117173486-0cfe0c00-ad8a-11eb-8723-8db68c62edb7.PNG)
